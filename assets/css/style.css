@@ -2031,6 +2031,7 @@ img {
 }
 
 .header-style-1 .navbar-brand img, .header-style-2 .navbar-brand img {
+  margin-top: -20px;
   max-width: 170px;
 }
 
